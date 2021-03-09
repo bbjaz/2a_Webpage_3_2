@@ -1,0 +1,18 @@
+body {
+  background-color: #E6E6FA;
+  color: #483D8B;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: #B0C4DE;
+  margin-left: 20px;
+}
+
+#random {
+  padding: 15px;
+  border: 10px solid #BC8F8F;
+  background: #FFF;
+  width: 500px;
+  letter-spacing: 3px;
+}
